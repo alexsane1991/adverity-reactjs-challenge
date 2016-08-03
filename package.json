@@ -1,0 +1,33 @@
+{
+  "name": "adverity-challenge",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bundle.js",
+  "scripts": {
+    "start": "webpack-dev-server --inline"
+  },
+  "keywords": [],
+  "author": "Elena Vorobieva",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.13.1",
+    "babel-core": "^6.2.1",
+    "babel-loader": "^6.2.0",
+    "babel-preset-es2015": "^6.1.18",
+    "babel-preset-react": "^6.11.1",
+    "jshint": "^2.8.0",
+    "jshint-loader": "^0.8.3",
+    "lodash": "^4.14.1",
+    "node-libs-browser": "^0.5.3",
+    "react": "^15.3.0",
+    "react-dom": "^15.3.0",
+    "react-select": "^1.0.0-beta14",
+    "style-loader": "^0.13.1",
+    "webpack": "^1.12.9",
+    "webpack-dev-server": "^1.14.1"
+  },
+  "devDependencies": {
+    "css-loader": "^0.23.1",
+    "style-loader": "^0.13.1"
+  }
+}
